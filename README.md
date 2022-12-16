@@ -6,8 +6,8 @@ A matching game themed with One Piece characters, created using only HTML, CSS a
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **One Piece Matching Game**
-| :label: Tecnologias | javascript, css, html
+| :sparkles: Nome        | **Jogo da Memória de One Piece**
+| :label: Tecnologias | HTML, CSS, JavaScript
 | :rocket: URL         | https://zingarelli.github.io/onepiece-matching-game/
 | :fire: Desafio     | Bootcamp TQI - DIO
 
